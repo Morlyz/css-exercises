@@ -1,0 +1,15 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.black{
+    color: white;
+    background-color: black;
+    font-size: 36px;
+    border: 2px rgb(213, 206, 206) solid;
+}
+.yellow{
+    color: black;
+    background-color: yellow;
+    font-size: 36px;
+    border: 2px rgb(213, 206, 206) solid;
+}
