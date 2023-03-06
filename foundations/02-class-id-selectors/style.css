@@ -1,0 +1,35 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    width: 90%;
+    height: 100vh;
+    margin: auto;
+}
+.pink{
+    background-color: pink;
+
+}
+.one{
+    font-size: 18px;
+    font-weight: normal;
+}
+.three{
+    font-size: 25px;
+    font-weight: normal;
+}
+.five{
+    font-size: 18px;
+    font-weight: light;
+}
+#two{
+    color: blue;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#four{
+    background-color: aquamarine;
+    font-weight: 800;
+    font-size: 18px;
+}
